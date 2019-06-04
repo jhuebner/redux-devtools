@@ -1,4 +1,9 @@
+*.log
+.idea
 lib
-**/node_modules
-**/webpack.config.js
-examples/**/server.js
+dist
+umd
+build
+coverage
+node_modules
+__snapshots__
